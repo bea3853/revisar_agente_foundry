@@ -51,3 +51,14 @@ while True:
         print(f"\n[Erro na API]: {e.message}")
     except Exception as e:
         print(f"\n[Erro inesperado]: {e}")
+
+
+
+# .env
+
+
+
+# ENDPOINT= 
+# API_KEY=
+# GPT5_MODEL= 
+# API_VERSION=
